@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collection-task",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
